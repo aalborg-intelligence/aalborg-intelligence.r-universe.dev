@@ -2,5 +2,9 @@
   {
     "package":"aai",
     "url":"https://github.com/aalborg-intelligence/aai"
+  },
+  {
+    "package":"aimat",
+    "url":"https://github.com/aalborg-intelligence/aimat"
   }
 ]
